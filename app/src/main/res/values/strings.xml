@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BooKYouRTriP</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="sign_in">Sign In</string>
+    <string name="welcome_back_to_your_own_travel_assistant">Welcome back to your own travel assistant</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">forgot Password?</string>
+    <string name="sign_in1">Sign In</string>
+    <string name="or_sign_in_with">___________ Or Sign in With ___________</string>
+</resources>

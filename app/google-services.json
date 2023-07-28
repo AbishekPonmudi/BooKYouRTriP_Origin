@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "782514847221",
+    "project_id": "bookyourtrip-project",
+    "storage_bucket": "bookyourtrip-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782514847221:android:c9706a03eee3a8fde0f4bc",
+        "android_client_info": {
+          "package_name": "com.akprogrammer.bookyourtrip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782514847221-bm52cm1m0o6g4n93uj5gdtu7eflueq5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh8Bg3MvHHGkAQ3vO7Eqb8QEkyWCLF43o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782514847221-bm52cm1m0o6g4n93uj5gdtu7eflueq5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
